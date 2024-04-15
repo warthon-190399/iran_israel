@@ -127,7 +127,7 @@ def analyze_sentiment_textblob(text):
     return sentiment
 
 # Aplicar la función de análisis de sentimientos a los datos
-df_exten["Sentimiento"] = df_exten["Contenido"].dropna().apply(analyze_sentiment_textblob)
+selected_df["Sentimiento"] = df_exten["Contenido"].dropna().apply(analyze_sentiment_textblob)
 
 #%%Definir el rango de polaridad
 rango_polaridad = {
