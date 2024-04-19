@@ -1,6 +1,6 @@
 # Análisis de Sentimiento: Conflicto Irano-Israelí
 Este proyecto ofrece un análisis de sentimiento sobre el conflicto entre Irán e Israel, basado en noticias recopiladas de diferentes fuentes. Se utilizan técnicas de procesamiento de lenguaje natural (NLP) para analizar el tono y la polaridad de los textos extraídos.
-
+Puedes observar la aplicación aquí: https://iranisrael-hpdqkz5f8cfanoa4sswck4.streamlit.app/
 ## Objetivo
 El objetivo principal de este proyecto es proporcionar una visión general del sentimiento expresado en las noticias relacionadas con el conflicto Irano-Israelí. Esto puede ayudar a comprender las tendencias de opinión en los medios de comunicación y su evolución a lo largo del tiempo.
 
